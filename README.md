@@ -29,3 +29,4 @@ $ python main.py
 - extract lucky number 
 - save lucky numbers
 - buy lottery based on lucky number 
+# test
